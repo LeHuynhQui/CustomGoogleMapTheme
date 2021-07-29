@@ -1,0 +1,27 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: #212529;
+    color: #fff;
+}
+
+.titile {
+    margin: 2rem 0;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    padding: 2rem 1rem;
+    line-height: 3rem;
+}
+
+#map {
+    height: 70vh;
+}
+
+.gm-style-iw-d {
+    color: #212529;
+}
