@@ -31,7 +31,7 @@ function initMap() {
             "Bạn đang ở đây",
             10.782914035048783,
             106.69556877930609,
-            "./../../assets/img/location.svg",
+            "./../../assets/img/super-mario.svg",
             30,
             30
 
